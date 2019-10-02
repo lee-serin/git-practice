@@ -1,2 +1,2 @@
 puts "Coding is fun!!!!!!"
-print "How is the weather today?"
+print "Good day, your majesty :)"
