@@ -48,3 +48,4 @@ Get changes from online
 
     git pull
 
+If I accidentally mess up and write just "git commit"
